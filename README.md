@@ -49,7 +49,8 @@ Atualmente trabalho com desenvolvimento em consultoria TOTVS e projetos web.
 - Mini ERP – Sistema web de controle  
   https://gabrielmarianosa.github.io/ERP-portf-lio/
 
-- Banana Bank (mobile) – App acadêmico simulando banco digital
+- Banana Bank (mobile) – App acadêmico simulando banco digital - rodar via Expo Go
+- https://github.com/GabrielMarianoSa/banana-bank
 
 ## Contato
 
