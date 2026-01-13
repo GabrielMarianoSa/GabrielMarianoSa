@@ -51,17 +51,6 @@ Atualmente trabalho com desenvolvimento em consultoria TOTVS e projetos web.
 
 - Banana Bank (mobile) – App acadêmico simulando banco digital
 
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielMarianoSa&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarianoSa&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## Contato
 
 LinkedIn:  
