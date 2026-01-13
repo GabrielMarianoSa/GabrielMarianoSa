@@ -56,9 +56,6 @@ Atualmente trabalho com desenvolvimento em consultoria TOTVS e projetos web.
 LinkedIn:  
 https://www.linkedin.com/in/gabriel-mariano-da-silva-dev/
 
-GitHub:  
-https://github.com/GabrielMarianoSa
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
